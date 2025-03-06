@@ -1,0 +1,141 @@
+.outter{
+    width: 1024px;
+    height: 768px;
+    margin: auto;
+    background-image: url("./images/0106.jpg");
+    background-size: contain;
+}
+.up{
+    width: 1024px;
+    height: 323px;
+}
+.right{
+    margin-right: 147px;
+    float: right;
+    margin-top: 85px;
+    width: 250px;
+}
+.right p{
+    font-family: 微軟正黑體;
+    font-size: 14px;
+    color: #fff;
+    text-align: justify;
+}
+.center{
+    float: right;
+    margin-top: 85px;
+    margin-right: 45px;
+    width: 53px;
+    height: 115px;
+    line-height: 2.25em;
+}
+.left{
+    font-family: 微軟正黑體;
+    font-size: 53px;
+    font-weight: bold;
+    color: #fff;
+    width: 372px;
+    float: left;
+    text-align: justify;
+    margin-top: 72px;
+    margin-left: 115px;
+    line-height: 1.3em;
+}
+marquee{
+    width: 350px;
+    font-family: 微軟正黑體;
+    font-size: 14px;
+    color: #DCA7A7;
+    margin-left: 7px;
+}
+.subselect{
+    float: left;
+    font-family: 微軟正黑體;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+    width: 215px;
+    text-align: center;
+    margin-left: 45px;
+    margin-top: 5px;
+}
+
+.subselect a{
+    color:  rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
+
+.content{
+    width: 1024px;
+    height: 385px;
+}
+
+.date{
+    width: 120px;
+    height: 420px;
+    font-family: 微軟正黑體;
+    font-size: 16px;
+}
+.A{
+    color: #FFF;
+    text-align: center;
+    padding-top: 185px;
+}
+.B{
+    color: #898989;
+    letter-spacing: 1px;
+    padding-left: 12px;
+}
+
+.footer{
+    font-family: 微軟正黑體;
+    font-size: 16px;
+    color: #DCA7A7;
+    width: 1024px;
+    height: 25px;
+    text-align: center;
+}
+
+.內容頁{
+    width: 904px;
+    height: 100%;
+    float: right;
+}
+.直排文字{
+    font-family: 微軟正黑體;
+    font-size: 14px;
+    color: #fff;
+    width: 25px;
+    text-align: center;
+    margin-top: 40px;
+    float: left;
+}
+.顯示區{
+    font-family: 微軟正黑體;
+    font-size: 13px;
+    color: #fff;
+    width: 732px;
+    float: left;
+}
+.左半部{
+    width: 55%;
+    height: 100%;
+    float: left;
+    padding-left: 55px;
+    padding-top: 42px;
+    line-height: 15px;
+}
+
+.文字{
+    color: #000;
+    font-weight: bold;
+}
+
+.右半部{
+    width: 30%;
+    height: 100%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 60px;
+    line-height: 15px;
+}
+
